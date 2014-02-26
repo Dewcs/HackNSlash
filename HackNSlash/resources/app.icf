@@ -1,5 +1,9 @@
 [S3E]
 MemMgrMaxAllocWarning=0
+DispFixRot=Landscape
+SplashScreenFile = "bg.png" # path to JPG file
+SplashScreenWidth = "1280" # width of image
+SplashScreenHeight = "800" # height of image
 
 [GL]
 
